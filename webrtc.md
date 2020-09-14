@@ -69,7 +69,7 @@ Nonetheless,
 
 **After attempting other challenges, I discovered the pattern of this whole CTF**: 
 
-![](https://quicklatex.com/cache3/93/ql_41c595e88f3ff92942c14e1013b44593_l3.png)
+![](https://quicklatex.com/cache3/41/ql_341fbdcdf4001306778c33431e74a941_l3.png)
 
 ### 0x02: SSRF
 
