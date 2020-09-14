@@ -1,3 +1,4 @@
+Following content only illustrates how I solve it. If you are interested in learning what is indeed happening, check [here](https://ctftime.org/writeup/23410)
 ### 0x00 Challenge
 
 supervisord.conf:
